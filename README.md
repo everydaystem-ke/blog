@@ -1,2 +1,2 @@
 # EveryDay STEM
-This is the repo used to generate the EveryDay STEM website
+This is the repo that serves the everydaystem website
