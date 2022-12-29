@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
-  <title>Blog</title>
+  <title>How It&#39;s Made : EverydayStem Site</title>
   
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -100,65 +100,80 @@ gtag('config', 'UA-250753108-1');
 </nav>
 <main>
 
-<section class="site-blog-header">
+<section class="site-blog details">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
-        <h1>Blog</h1>
-        <p>
-          What We&#39;ve Been Upto
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
+      <div class="col-lg-8">
+        <article class="site-blog-details">
+          
+          <h2 class="blog-title">How It&#39;s Made : EverydayStem Site</h2>
+          
+          <img class="feature-image" src="https://everydaystem.github.io/images/blog/stem-site.jpg" alt="blog-feature-image">
+          
+          <p>The Everydaystem site is seemingly feature rich and aesthetically pleasing website. It would be make sense to assume that constructing such a site is both costly and complex but this couldn&rsquo;t be further from the truth. In this article we explore how the site is constructed, maintained and servered.</p>
+<p>When we set out to create the site we had in mind</p>
+<ul>
+<li>Speed</li>
+<li>Reliability</li>
+<li>Updateability</li>
+<li>Availability of blogging features</li>
+<li>Cost</li>
+</ul>
+<p>Static Site generators were highly recommended and we came across several alternatives</p>
+<ul>
+<li>WordPress</li>
+<li>Ghost</li>
+<li>Jekyll</li>
+<li>Grav</li>
+<li>Hugo&hellip;</li>
+</ul>
+<p><img src="/images/blog/hugo.jpg" alt=""></p>
+<p>On our site we use <a href="https://gohugo.io/">Hugo</a>, a very popular open-source static site generator. We&rsquo;re able to make complex, content rich webistes thanks to it. Hugo can generate fairly large and well optimized sites in very little time so updates can be done quickly.</p>
+<p>If you wish to give it a go install hugo using the <a href="https://gohugo.io/getting-started/quick-start/">quick start guide</a> provided on their site. The Hugo community has created various <a href="https://themes.gohugo.io/">themes</a> to enable others to create feature rich and pleasing websites. You may choose any for your demo.</p>
+<pre><code>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/sB0HLHjgQ7E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
-<section class="site-blog">
-  <div class="container">
-    <div class="row">
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-thumb">
-            <img src="https://everydaystem.github.io/images/blog/stem-thumb.jpg" alt="post-thumb">
-          </div>
-          
-          <div class="site-blog-post-content">
-            
-            <h3><a href="https://everydaystem.github.io/blog/site/">How It&#39;s Made : EverydayStem Site</a></h3>
-            <p>
-              The Everydaystem site is seemingly feature rich and aesthetically pleasing website. It would be make sense to assume that constructing such a site is both costly and complex but this couldn&rsquo;t be further from the truth. ...
-            </p>
-            <a href="https://everydaystem.github.io/blog/site/" class="read-more">read more</a>
-          </div>
+</code></pre>
+<p>Most hugo projects will have a structure similar to this.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">. <span style="color:#75715e"># ./EveryDayStem </span>
+├── config.toml <span style="color:#75715e"># Contains site variables</span>
+├── content <span style="color:#75715e"># Where you would store blog posts</span>
+├── data <span style="color:#75715e"># Contains data that can be iterated over to create pages</span>
+├── layouts <span style="color:#75715e"># Contains custom layouts for any pages on the site</span>
+├── public <span style="color:#75715e"># Contains the final statically generated site</span>
+├── static <span style="color:#75715e"># Contains files that are used throughout the site for instance logos, pdfs..</span>
+│  └── images
+└── themes <span style="color:#75715e"># Contains themes used to generate the site</span>
+</code></pre></div><p>Following the quick start guide should show you the basics of working with hugo but if insufficient for your purposes there is <a href="https://gohugo.io/documentation/">documentation</a> and <a href="https://discourse.gohugo.io/">community forum</a> to help you build your dream site.</p>
+<p>Once the site is made you need to share it. This can be achieved in all kinds of ways</p>
+<ul>
+<li>
+<p>AWS</p>
+</li>
+<li>
+<p>Cloudflare workers</p>
+</li>
+<li>
+<p>Dreamhost</p>
+</li>
+<li>
+<p><a href="https://dev.new">Railway</a> # A service we use frequently to create prototypes</p>
+</li>
+<li>
+<p>Self-hosting # If you have spare computers you can use them to host applications and expose them to the world</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/2MsN8gpT6jY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+</li>
+</ul>
+<p>We use an interesting service called <a href="https://pages.github.com/">github pages</a>. It is intended for particularly large projects to host webistes that can show users how to use, extend or fund the project. It is a great resource that you are encouraed to use.</p>
+<p>And that&rsquo;s how the site works.</p>
+
         </article>
-      </div>
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-thumb">
-            <img src="https://everydaystem.github.io/images/blog/youtube-thumb.jpg" alt="post-thumb">
-          </div>
-          
-          <div class="site-blog-post-content">
-            
-            <h3><a href="https://everydaystem.github.io/blog/youtube-recommendations/">Youtube Recommendations</a></h3>
-            <p>
-              Youtube is a remarkable platform. To have free access to so much great quality content is simply unprecedented. We, however, understand that it is incredibly difficult to navigate such a vast sea of information. ...
-            </p>
-            <a href="https://everydaystem.github.io/blog/youtube-recommendations/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-12">
-        <div class="site-blog-pagination">
-          
-
-
-        </div>
       </div>
     </div>
   </div>

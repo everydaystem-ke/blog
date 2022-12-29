@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://everydaystem.github.io/</loc>
+    <lastmod>2022-12-30T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://everydaystem.github.io/blog/site/</loc>
+    <lastmod>2022-12-30T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://everydaystem.github.io/about/</loc>
     <lastmod>2022-11-28T00:00:00+03:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://everydaystem.github.io/contact/</loc>
-    <lastmod>2022-11-28T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/</loc>
     <lastmod>2022-11-28T00:00:00+03:00</lastmod>
   </url>
   
