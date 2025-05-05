@@ -1,52 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://everydaystem.github.io/</loc>
+    <loc>https://blog.everydaystem.co.ke/</loc>
     <lastmod>2022-12-30T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/blog/site/</loc>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/blog/site/</loc>
     <lastmod>2022-12-30T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/about/</loc>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/blog/</loc>
+    <lastmod>2022-12-30T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/blog/youtube-recommendations/</loc>
+    <lastmod>2022-12-07T22:37:00+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/about/</loc>
     <lastmod>2022-11-28T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/blog/</loc>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/contact/</loc>
     <lastmod>2022-11-28T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/contact/</loc>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/registration/</loc>
     <lastmod>2022-11-28T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/registration/</loc>
-    <lastmod>2022-11-28T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/portfolio/</loc>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/portfolio/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/categories/</loc>
+  </url><url>
+    <loc>https://blog.everydaystem.co.ke/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://everydaystem.github.io/blog/youtube-recommendations/</loc>
-  </url>
-  
 </urlset>

@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Everydaystem | Education Program</title>
-    <link>https://everydaystem.github.io/blog/</link>
-    <description>Recent content in Blog on Everydaystem | Education Program</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Posts on Everydaystem</title>
+    <link>https://blog.everydaystem.co.ke/blog/</link>
+    <description>Recent content in Posts on Everydaystem</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0300</lastBuildDate><atom:link href="https://everydaystem.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://blog.everydaystem.co.ke/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How It&#39;s Made : EverydayStem Site</title>
-      <link>https://everydaystem.github.io/blog/site/</link>
+      <link>https://blog.everydaystem.co.ke/blog/site/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0300</pubDate>
-      
-      <guid>https://everydaystem.github.io/blog/site/</guid>
-      <description>The Everydaystem site is seemingly feature rich and aesthetically pleasing website. It would make sense to assume that constructing such a site is both costly and complex but this couldn&amp;rsquo;t be further from the truth.</description>
+      <guid>https://blog.everydaystem.co.ke/blog/site/</guid>
+      <description>&lt;p&gt;The Everydaystem blog is seemingly feature rich and aesthetically pleasing website. It would make sense to assume that constructing such a site is both costly and complex but this couldn&amp;rsquo;t be further from the truth. In this article we explore how the site is constructed, maintained and served.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Youtube Recommendations</title>
-      <link>https://everydaystem.github.io/blog/youtube-recommendations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://everydaystem.github.io/blog/youtube-recommendations/</guid>
-      <description>Youtube is a remarkable platform. To have free access to so much great quality content is simply unprecedented. We, however, understand that it is incredibly difficult to navigate such a vast sea of information.</description>
+      <title>Educational Youtube</title>
+      <link>https://blog.everydaystem.co.ke/blog/youtube-recommendations/</link>
+      <pubDate>Wed, 07 Dec 2022 22:37:00 +0300</pubDate>
+      <guid>https://blog.everydaystem.co.ke/blog/youtube-recommendations/</guid>
+      <description>&lt;p&gt;Youtube is a remarkable platform. To have free access to so much great quality content is simply unprecedented. We, however, understand that it is incredibly difficult to navigate such a vast sea of information. We get asked from time to time to recommend creators with great content.&#xA;We thus compiled a list of some hidden gems on the platform that we thought you would enjoy.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
