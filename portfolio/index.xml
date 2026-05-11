@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Everydaystem</title>
-    <link>https://blog.everydaystem.co.ke/portfolio/</link>
-    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Everydaystem</description>
-    <generator>Hugo</generator>
+    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Everydaystem | Education Program</title>
+    <link>https://everydaystem.co.ke/portfolio/</link>
+    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Everydaystem | Education Program</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://blog.everydaystem.co.ke/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://everydaystem.co.ke/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
